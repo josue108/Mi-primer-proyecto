@@ -1,2 +1,3 @@
 # Mi-primer-proyecto
-tarea de escuela de codigo
+¿que es un repositorio?
+es una ubicacion de almacenamiento online en la que puedes guardar cualquier archivo que desees y acceder a el
